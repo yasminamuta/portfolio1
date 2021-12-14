@@ -1,0 +1,15 @@
+.box{
+	
+	margin-top: 80px;
+	text-align: center;
+	margin-bottom: 80px;
+}
+
+fieldset {
+  background-color: #eeeeee;
+}
+
+.fill{
+	width: 650px;
+	margin-left: 300px;
+}
